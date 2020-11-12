@@ -1,0 +1,32 @@
+
+
+.states_congress {
+    margin-bottom: 5px;
+    justify-content: center;
+    align-content: space-between;
+    background-color: antiquewhite;
+}
+
+.lamar {
+    display: flex;
+}
+
+.marsha {
+    display: flex;
+}
+
+.jim {
+    display: flex;
+}
+
+.info {
+    justify-content: center;
+    align-items: flex-start;
+    margin: 20px; 
+
+}
+
+.image {
+    margin: 20px;
+    height: 12em;
+}
